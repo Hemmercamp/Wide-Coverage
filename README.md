@@ -1,33 +1,63 @@
-# 🌍 Wide Coverage Location
+<h1 align="center">📍 Ampla Cobertura de Localização</h1>
 
-## 📝 Descrição  
-Este projeto foi criado para praticar **HTML5** e **CSS3**, com foco em **responsividade** e **layout moderno**.  
-O objetivo é treinar o posicionamento de elementos e o uso de **Flexbox**, além de reforçar o conceito de **design limpo e intuitivo**.
-
-O site simula uma *landing page* com foco em uma aplicação de **mobilidade urbana**, destacando a cobertura e praticidade do serviço.
-
----
-
-## 🧠 Tecnologias utilizadas  
-- HTML5  
-- CSS3 (Flexbox, Media Queries)  
+<p align="center">
+  <a href="https://hemmercamp.github.io/Wide-Coverage/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Ver%20Projeto%20Online-blue?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-## 🎨 Layout do projeto  
-![Layout do projeto](assets/preview.png)
+## 🧠 Sobre o projeto
+
+O **Ampla Cobertura de Localização** é um projeto desenvolvido com **HTML5** e **CSS3**,  
+focado em praticar **responsividade e layout moderno**.  
+
+O objetivo é fortalecer o entendimento de **Flexbox**, **posicionamento** e **design limpo**,  
+criando uma landing page voltada para **serviços de mobilidade urbana** com foco em cobertura e praticidade.
 
 ---
 
-## 🚀 Como visualizar  
-1. Baixe ou clone o repositório:  
-   ```bash
-   git clone https://github.com/Hemmercamp/Wide-Coverage.git
-   ```
-2. Abra o arquivo `index.html` no navegador.
+## 🚀 Funcionalidades
+
+✅ Layout moderno e responsivo  
+✅ Estrutura de página com Flexbox  
+✅ Estilo clean e intuitivo  
+✅ Design inspirado em landing pages de startups  
 
 ---
 
-## 💡 Autor  
-Desenvolvido por **Hemmercamp** 🧑‍💻  
-📚 Projeto de prática do curso **DevClub**.
+## 🌐 Acesse o projeto online
+
+<p align="center">
+  <a href="https://hemmercamp.github.io/Wide-Coverage/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Ver%20Projeto%20Online-blue?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+## 🧩 Tecnologias utilizadas
+
+- **HTML5** → Estrutura semântica da página  
+- **CSS3** → Estilização, responsividade e layout com Flexbox  
+
+---
+
+## 🖼️ Layout do projeto
+
+<p align="center">
+  <img src="assets/preview.png" alt="Preview do projeto Ampla Cobertura" width="700px">
+</p>
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Emerson Eruédinos da Silva**  
+📧 [contatohemersonoficial@gmail.com](mailto:contatohemersonoficial@gmail.com)  
+💼 [GitHub - Hemmercamp](https://github.com/Hemmercamp)
+
+---
+
+⭐ *“Cada linha de código é um passo rumo à maestria.”*
